@@ -1,14 +1,24 @@
 {
-  
-  "fruits":[
+  "fruits": [
     {
-      "id":1,
-      "name":"Mango",
-      "quantity":10,
-      "price":350
+      "name": "Banana",
+      "quantity": 20,
+      "price": 350,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "potato",
+      "price": 2000,
+      "quantity": 40
+    },
+    {
+      "name": "Banana",
+      "quantity": 20,
+      "price": 350,
+      "id": 4
     }
   ],
-
   "posts": [
     {
       "id": 1,
